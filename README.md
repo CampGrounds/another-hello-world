@@ -1,3 +1,2 @@
 # another-hello-world
-
-Testing this out, gonna add my dotfiles and so on. 
+Let's add on some new text then.
