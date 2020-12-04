@@ -1,3 +1,2 @@
 # another-hello-world
-
-erase some text and add some new
+Let's add on some new text then.
